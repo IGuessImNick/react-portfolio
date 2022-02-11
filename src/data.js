@@ -1,4 +1,4 @@
-import beehively from "./img/beehivelyLogo2.jpg"
+import beehively from "./img/beehivelyTeam.png"
 
 export const products = [
     {
